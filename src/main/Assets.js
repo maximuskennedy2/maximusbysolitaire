@@ -1,9 +1,9 @@
 const COLORS = {
     BACKGROUND: {
-        LIGHT_GREEN: '#03ad31',
-        DARK_GREEN: '#026b1e',
-        DARKER_GREEN: '#004011',
-        LIGHT_GRAY: '#cccccc',
+        LIGHT_GREEN: '#8375B8',
+        DARK_GREEN: '#5E4E96',
+        DARKER_GREEN: '#43376C',
+        LIGHT_GRAY: '#FFFFFF',
         BLACK: '#000000',
     },
     CARD: {
